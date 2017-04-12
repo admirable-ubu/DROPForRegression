@@ -3,7 +3,7 @@
 This is an open-source filter for Weka that implements DROP algorithms for regression.
 
 
-###Cite this software as:
+### Cite this software as:
  **Á. Arnaiz-González, J-F. Díez Pastor, Juan J. Rodríguez, C. García Osorio.** _Instance selection for regression: Adapting DROP._ Neurocomputing, 201, 66-81. [doi: 10.1016/j.neucom.2016.04.003](doi: 10.1016/j.neucom.2016.04.003)
 
 ```
@@ -21,9 +21,9 @@ This is an open-source filter for Weka that implements DROP algorithms for regre
 ```
 
 
-#How to use
+# How to use
 
-##Download and build with ant
+## Download and build with ant
 - Download source code: It is host on GitHub. To get the sources and compile them we will need git instructions. The specifically command is:
 ```git clone https://github.com/alvarag/DROPReg.git ```
 - Build jar file: 
@@ -32,7 +32,7 @@ It generates the jar file under /dist/weka
 
 
 
-##How to run
+## How to run
 
 Include the file instanceselection.jar into the path. Example: 
 
