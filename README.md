@@ -4,7 +4,7 @@ This is an open-source filter for Weka that implements DROP algorithms for regre
 
 
 ### Cite this software as:
- **Á. Arnaiz-González, J-F. Díez Pastor, Juan J. Rodríguez, C. García Osorio.** _Instance selection for regression: Adapting DROP._ Neurocomputing, 201, 66-81. [doi: 10.1016/j.neucom.2016.04.003](doi: 10.1016/j.neucom.2016.04.003)
+ **Á. Arnaiz-González, J-F. Díez Pastor, Juan J. Rodríguez, C. García Osorio.** _Instance selection for regression: Adapting DROP._ Neurocomputing, 201, 66-81. [doi: 10.1016/j.neucom.2016.04.003](https://doi.org/10.1016/j.neucom.2016.04.003)
 
 ```
 @article{ArnaizGonzalez2016,   
